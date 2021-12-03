@@ -1,20 +1,31 @@
 /*////////////// Fonts //////////////*/
 
+
 /* link the web font used for the level 1 heading here */
+
+h1 {
+    font-size: large;
+}
+
+h2 {
+    color: grey;
+}
+
 
 /*////////// Global Styles //////////*/
 
 body {
-	background: #F3EBE9;
-	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+    background: #F3EBE9;
+    font-size: 100%;
+    font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
-	width: 960px;
-	margin: 0 auto;
-	background: #fff;
-	padding: 0 45px 20px;
+    width: 960px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 0 45px 20px;
 }
+
 
 /* Write all remaining styles here */
